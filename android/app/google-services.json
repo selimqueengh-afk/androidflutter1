@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742165492881",
+    "project_id": "flutterandroid-65ccb",
+    "storage_bucket": "flutterandroid-65ccb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742165492881:android:c69b33f291c92425d2fb30",
+        "android_client_info": {
+          "package_name": "com.example.snickers_chat_v4_temp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNPnxONDuFDkQ_tCjESlsiz8eSMihfV9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
