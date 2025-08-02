@@ -314,6 +314,10 @@ xml
 3.2
 file:///home/ubuntu/.pub-cache/hosted/pub.dev/xml-6.5.0/
 file:///home/ubuntu/.pub-cache/hosted/pub.dev/xml-6.5.0/lib/
+snickers_chat_v4
+3.4
+file:///workspace/
+file:///workspace/lib/
 sky_engine
 3.2
 file:///workspace/flutter/bin/cache/pkg/sky_engine/
@@ -330,8 +334,4 @@ flutter_web_plugins
 3.2
 file:///workspace/flutter/packages/flutter_web_plugins/
 file:///workspace/flutter/packages/flutter_web_plugins/lib/
-snickers_chat_v4
-3.4
-file:///workspace/snickers_chat_v4_temp/
-file:///workspace/snickers_chat_v4_temp/lib/
 2
